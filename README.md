@@ -22,8 +22,8 @@ This project demonstrates data analysis and statistical testing for marketing op
 
 ## My Work 📂
 
-- Full **write-up** of the analysis: [Download the document](https://github.com/TuringCollegeSubmissions/nschoe-MAT2.4.6/blob/main/M3%20S4_Project%20Neeltje__A-B%20Testing_2.docx))
-- **Google Sheets** with data, calculations, and queries: [View spreadsheet](https://docs.google.com/spreadsheets/d/1ysAstty455OnKrv5zd4igSFzGZI58G8FDGRyHdvDa6w/edit?usp=sharing)
+- Full **write-up** of the analysis: [Download the document](https://github.com/TuringCollegeSubmissions/nschoe-MAT2.4.6/blob/main/M3%20S4_Project%20Neeltje__A-B%20Testing_2.docx)
+- **Google Sheets** with data, calculations, and queries: [View spreadsheet](https://docs.google.com/spreadsheets/d/1UVpIVAxTECLCi8rnIktRcB22m3dmrxnlCoz1iPvl_0I/edit?usp=sharing)
 - **Looker Studio** visualization of sales data: [View report](https://lookerstudio.google.com/s/p_cm2X-_S8k)
 
 # Marketing Campaign A/B Test Report
